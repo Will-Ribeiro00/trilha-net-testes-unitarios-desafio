@@ -1,6 +1,9 @@
 # DIO - Trilha .NET - Testes Unitários com C#
 www.dio.me
 
+# Desafio Concluido
+Foi feito uma análise do código para entender quais são os Métodos/Funções presentes e como tais se comportam. Depois de concluir o entendimento, realizei os ajustes dentro do codigo dos testes unitários para eles se comportarem da maneira ideal.  
+
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de Testes Unitários com C#, da trilha .NET da DIO.
 
